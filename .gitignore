@@ -1,0 +1,19 @@
+# Ignorar archivos de configuración de Visual Studio
+*.suo
+*.user
+*.sln.docstates
+
+# Ignorar archivos binarios y de objetos generados por la compilación
+bin/
+obj/
+
+# Ignorar archivos de caché y temporales
+*.cache
+*.log
+*.bak
+*.tmp
+
+# Ignorar archivos de respaldo de Visual Studio
+*.[Bb]ackup
+*.[Oo]ld
+*.[Bb]ak
